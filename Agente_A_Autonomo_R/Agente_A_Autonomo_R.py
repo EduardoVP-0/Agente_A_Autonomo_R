@@ -16,7 +16,7 @@ limpieza_completa = False
 tiempo_total = 0
 
 # ============================
-# Configuración de la pantalla
+# Configuración de la pantallaa
 # ============================
 ANCHO, ALTO = 400, 400
 TAMANIO_CELDA = 40
